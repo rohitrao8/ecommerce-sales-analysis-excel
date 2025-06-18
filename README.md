@@ -22,3 +22,7 @@ Excel | Data Analysis | Dashboarding | Business Intelligence | KPI Reporting
 
 - Integrate with Power BI or Tableau for enhanced visualization.
 - Automate data updates using Power Query or VBA.
+
+## 📝 Dashboard  
+
+![Alt text](Dashboard.png)
